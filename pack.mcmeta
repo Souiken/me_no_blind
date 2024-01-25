@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 9,
-    "description": "Let ME Controller don't make you blind."
+    "pack_format": 3,
+    "supported_formats":[3,13],
+    "description": "ME No Blind"
   }
 }
